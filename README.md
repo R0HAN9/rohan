@@ -1,4 +1,4 @@
-[![Portfolio Preview](./public/portfolio-preview.png)](https://your-portfolio-url.com) <!-- Add a screenshot of your portfolio -->
+[![Portfolio Preview](./public/portfolio-preview.png)](https://rohan-six.vercel.app/) <!-- Add a screenshot of your portfolio -->
 
 # My Personal Portfolio
 
